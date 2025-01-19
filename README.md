@@ -4,7 +4,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: zsyhrn22@gmail.com
+- 📫 How to reach me: zdnsyrhn22@gmail.com
 
 ### Tech Stack
   <a href="https://www.php.net/"><img align="left" alt="JavaScript" title="PHP" width="21px" src="https://www.php.net/images/logos/php-logo-white.svg" /></a>
@@ -19,13 +19,13 @@ An independent Software Engineer who loves to create and share projects about we
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/zsyhrn22">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zsyhrn22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zsyhrn22&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/zdnsyrhn22">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zdnsyrhn22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zdnsyrhn22&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/zsyhrn22/">LinkedIn</a>
+- <a href="https://linkedin.com/in/zdnsyrhn22/">LinkedIn</a>
 - <a href="#">zsyrhn.dev (Coming soon)</a>
-- zsyhrn22@gmail.com
+- zdnsyrhn22@gmail.com
